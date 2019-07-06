@@ -1,0 +1,47 @@
+
+/* Backgorund color and font color have been inverted compared to template to match cloaked man. */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    }
+
+.main-container {
+    padding:30px;
+    float: left;
+    }
+        
+.container {
+    clear: both;
+    width: 100%;
+    max-width: 960px;
+    }
+        
+h1,
+h2,
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    }
+
+.side-psychic-man {
+    margin-top: 70px;
+    height: 270px;
+    }
+
+/* Footer: The footer has been centered underneath the picture of the cloaked man*/
+        
+footer {
+    padding-bottom: 20px;
+    padding-left:456px;
+    font-size: 30px;
+    line-height: 49px;
+    color: #000000;
+    }
